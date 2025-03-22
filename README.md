@@ -29,8 +29,14 @@ Hyperparameter Tuning (Optional): Optimizing the model parameters to improve acc
 
 Predictions: Using the trained model to classify new data points into safe or unsafe areas.
 
+
 The ultimate objective is to build an accurate predictive model that can assist in determining the safety of different locations based on relevant features.
 
+##OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/a4b801e3-3ad0-4f25-9da9-f9678ee47d4e)
+![Image](https://github.com/user-attachments/assets/de9713b1-b6ae-49e3-972f-26848cefc816)
+![Image](https://github.com/user-attachments/assets/7f576332-861b-4d44-8395-0c932c2fec50)
 
 
 

@@ -35,7 +35,9 @@ The ultimate objective is to build an accurate predictive model that can assist 
 ##OUTPUT:
 
 
-
+![Image](https://github.com/user-attachments/assets/cfb0a5be-51fc-4115-bf88-3e6d95332c59)
+![Image](https://github.com/user-attachments/assets/e1dfc9b1-a050-48fb-a5ba-36b32bbddd17)
+![Image](https://github.com/user-attachments/assets/7bc88cc8-4cc4-40cf-a8f8-55ddd8f7e1db)
 
 
 
